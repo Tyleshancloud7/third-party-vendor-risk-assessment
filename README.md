@@ -2,29 +2,29 @@
 Enterprise Third-Party & Vendor Risk Assessment
 Aligned with NIST SP 800-161 & ISO 27001 Principles
 
-📌 Project Overview
+Project Overview
 This project simulates a real-world enterprise third-party cybersecurity risk assessment. The objective was to evaluate how an organization manages cybersecurity risks introduced by vendors and suppliers, identify gaps, and design a structured Vendor Risk Management (VRM) program aligned with industry standards.
 The assessment focuses on reducing supply-chain risk while ensuring business operations remain secure, resilient, and compliant.
 
-🏢 Organization Profile (Mock)
+Organization Profile Cypronetics
 * Organization Name: Cypronetics
 * Industry: Technology / SaaS
 * Environment: Cloud-based infrastructure with multiple third-party vendors
 * Vendor Types: Cloud service provider, HR platform, payment processor, IT support services
 
-🎯 Project Objectives
+Project Objectives
 * Identify cybersecurity risks introduced by third-party vendors
 * Assess vendor access to systems and sensitive data
 * Evaluate onboarding, monitoring, and incident response practices
 * Develop a scalable vendor risk management framework
 * Align vendor security controls with business risk tolerance
 
-📚 Frameworks & Standards Used
+Frameworks & Standards Used
 * NIST SP 800-161 – Supply Chain Risk Management
 * ISO/IEC 27001 (Annex A) – Information Security Controls
 * CIA Triad – Confidentiality, Integrity, Availability
 
-🔍 Assessment Scope & Methodology
+ Assessment Scope & Methodology
 The assessment was conducted across five key domains:
 1️⃣ Vendor Inventory & Risk Classification
 * Identified all third-party vendors
@@ -61,13 +61,13 @@ Developed:
 * Executive-friendly risk summaries
 * Remediation tracking and accountability
 
-📊 Key Findings
+ Key Findings
 * High-risk vendors were not formally assessed
 * Vendor access reviews were not conducted regularly
 * Incident notification requirements were unclear
 * Supply-chain risk was not integrated into enterprise risk reporting
 
-🛠️ Recommendations & Roadmap
+ Recommendations & Roadmap
 Short-Term (0–90 Days)
 * Create standardized vendor security questionnaires
 * Classify vendors by risk level
@@ -86,19 +86,9 @@ Security Principle	Implementation
 Confidentiality	Access restrictions, encryption requirements
 Integrity	Audit logging, change management
 Availability	Vendor resilience planning and recovery processes
-💼 Business Value
+  Business Value
 This project demonstrates how structured vendor risk management:
 * Reduces exposure to supply-chain attacks
 * Improves regulatory readiness
 * Aligns cybersecurity with business objectives
-* Enhances executive decision-making
-
-🚀 Skills Demonstrated
-* Third-Party Risk Management (TPRM)
-* Governance, Risk, and Compliance (GRC)
-* Risk Assessment & Reporting
-* Executive Communication
-* Cybersecurity Framework Application
-
-📄 Disclaimer
-This project is a mock assessment created for educational and portfolio purposes. No real organization or vendor data was used.
+* Enhances executive decisions. 
