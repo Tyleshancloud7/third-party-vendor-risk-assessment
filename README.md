@@ -1,4 +1,4 @@
-# third-party-vendor-risk-assessment
+# third-party-vendor-risk-assessment 
 Enterprise Third-Party & Vendor Risk Assessment
 Aligned with NIST SP 800-161 & ISO 27001 Principles
 
@@ -6,7 +6,6 @@ Project Overview
 This project simulates a real-world enterprise third-party cybersecurity risk assessment. The objective was to evaluate how an organization manages cybersecurity risks introduced by vendors and suppliers, identify gaps, and design a structured Vendor Risk Management (VRM) program aligned with industry standards.
 The assessment focuses on reducing supply-chain risk while ensuring business operations remain secure, resilient, and compliant.
 
-Organization Profile Cypronetics
 * Organization Name: Cypronetics
 * Industry: Technology / SaaS
 * Environment: Cloud-based infrastructure with multiple third-party vendors
